@@ -100,9 +100,9 @@ ZA	South Africa	2011
 --
 
 COPY district (code, name, province_code, year) FROM stdin;
-DC42	Sedibeng	GT	2011
-DC45	John Taolo Gaetsewe	NC	2011
-DC43	Sisonke	KZN	2011
+DC42	Kamokya	GT	2014
+DC45	Bukoto	2011
+DC43	Ntinda	KZN	2011
 DC32	Ehlanzeni	MP	2011
 DC24	Umzinyathi	KZN	2011
 DC25	Amajuba	KZN	2011

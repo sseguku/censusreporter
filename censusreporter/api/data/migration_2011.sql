@@ -170,8 +170,8 @@ COPY provinceofbirth_country (total, "province of birth", country_code) FROM std
 --
 
 COPY provinceofbirth_municipality (total, "province of birth", municipality_code) FROM stdin;
-2280	Western Cape	EC101
-43700	Eastern Cape	EC101
+2280	Western Uganda	EC101
+43700	Eastern Uganda	EC101
 435	Northern Cape	EC101
 260	Free State	EC101
 237	KwaZulu-Natal	EC101
